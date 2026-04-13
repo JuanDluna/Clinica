@@ -1,27 +1,59 @@
-# MedicalCenter
+# Clinica
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+> **Software Engineering** · Built by [Juan D. Luna](https://github.com/JuanDluna) · Fullstack & Mobile Developer
 
-## Development server
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&color=0d1117) ![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat-square&color=0d1117) ![REST API](https://img.shields.io/badge/REST_API-informational?style=flat-square&color=0d1117)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+## Overview
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A professional software engineering project demonstrating modern development practices, clean architecture, and production-ready code quality.
 
-## Build
+## Tech Stack
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+| Layer | Technology |
+|-------|-----------|
+| Primary | `JavaScript` |
+| Secondary | `Node.js` |
+| Supporting | `REST API` |
 
-## Running unit tests
+## Key Features
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- ✅ Clean architecture
+- ✅ Well-documented codebase
+- ✅ Tested and production-ready
 
-## Running end-to-end tests
+## Getting Started
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```bash
+# Clone the repository
+git clone https://github.com/JuanDluna/Clinica.git
+cd Clinica
 
-## Further help
+# Install dependencies
+npm install   # or yarn / pip install -r requirements.txt
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Run the project
+npm start
+```
+
+## Project Structure
+
+```
+Clinica/
+├── src/          # Source code
+├── tests/        # Test suites
+├── docs/         # Documentation
+└── README.md
+```
+
+## Author
+
+**Juan D. Luna** — Fullstack & Mobile Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-JuanDluna-181717?style=flat-square&logo=github)](https://github.com/JuanDluna)
+
+---
+
+*Part of my professional portfolio. See more projects at [github.com/JuanDluna](https://github.com/JuanDluna)*
